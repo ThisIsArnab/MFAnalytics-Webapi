@@ -1,6 +1,5 @@
-﻿namespace MFAnalytics.Application.Models
+﻿namespace MFAnalytics.Application.Models;
+
+public class Wishlist
 {
-    public class Wishlist
-    {
-    }
 }
